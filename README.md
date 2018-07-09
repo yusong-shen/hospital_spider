@@ -7,7 +7,7 @@ https://doc.scrapy.org/en/latest/intro/install.html#intro-install
 ### get started with Scrapy
 https://doc.scrapy.org/en/latest/intro/tutorial.html
 
-## learn more about Scrapy Selector
+### learn more about Scrapy Selector
 https://doc.scrapy.org/en/latest/topics/selectors.html
 
 
@@ -16,6 +16,9 @@ scrapy crawl hospitals
 
 ### store it with json file
 scrapy crawl hospitals -o hospitals.json
+
+### convert it to csv
+http://www.convertcsv.com/json-to-csv.htm
 
 ### source url
 https://texashealthemergencyroom.com/locations
